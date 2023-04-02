@@ -20,3 +20,6 @@ Additionally, over the past several years, the movie industry has undergone othe
 ## Acknowledgements
 - Worked on this project with Gabby Bliss, [Lila Weiner](https://www.linkedin.com/in/lila-weiner-30512b25b/), and [Riley Otsuki](https://www.linkedin.com/in/rileyotsuki/).
 - The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset)
+
+## Contact
+Created by [Kenneth Yeon](https://www.linkedin.com/in/kennethyeon/)
